@@ -1,12 +1,11 @@
-Este repositorio presenta un conjunto de datos en formato CSV destinado a la investigación y desarrollo de modelos predictivos avanzados para la optimización del tráfico en redes de datos autoadaptativas. La principal aportación de este estudio radica en el diseño e implementación de un enfoque integral basado en modelos de machine learning y deep learning para la detección temprana de anomalías y la gestión eficiente del tráfico de red. 
-Este conjunto de datos ha sido recopilado y estructurado con el objetivo de proporcionar una base confiable para la investigación en optimización del tráfico de red. La propuesta incorpora diversos algoritmos con funciones de activación como ReLU, sigmoid, exponential, softmax, hard sigmoid y mish, con el fin de evaluar su eficacia en la identificación automática de patrones anómalos y la mejora del rendimiento de la red.
-El conjunto de datos incluye variables clave extraídas a partir de mediciones en redes reales, permitiendo la exploración de patrones de tráfico y la optimización del flujo de información. La información contenida en este dataset se ha estructurado de manera que facilite su aplicación en diversas estrategias de aprendizaje automático y profundo.
-Para la construcción y validación de los modelos predictivos, se exploraron múltiples algoritmos de machine learning y deep learning. En particular, se entrenaron y analizaron diversas arquitecturas de redes neuronales para determinar la combinación más eficiente en la predicción y control del tráfico de red. Se compararon y evaluaron las siguientes técnicas:
+This repository presents a CSV dataset intended for the research and development of advanced predictive models for traffic optimization in self-adaptive data networks. The main contribution of this study lies in the design and implementation of a comprehensive approach based on machine learning and deep learning models for early anomaly detection and efficient network traffic management.
+This dataset has been compiled and structured to provide a reliable basis for research in network traffic optimization. The proposal incorporates various algorithms with activation functions such as ReLU, sigmoid, exponential, softmax, hard sigmoid, and MISH, to evaluate their effectiveness in automatically identifying anomalous patterns and improving network performance.
+The dataset includes key variables extracted from measurements in real networks, allowing for the exploration of traffic patterns and optimization of information flow. The information contained in this dataset has been structured to facilitate its application in various machine and deep learning strategies. To build and validate the predictive models, multiple machine learning and deep learning algorithms were explored. In particular, various neural network architectures were trained and analyzed to determine the most efficient combination for predicting and controlling network traffic. The following techniques were compared and evaluated:
 
-1.- Algoritmos de aprendizaje supervisado
-2.- Redes neuronales con diferentes funciones de activación
-3.- Evaluación de la eficiencia y tasa de error de cada modelo
+1. Supervised learning algorithms
+2. Neural networks with different activation functions
+3. Evaluation of the efficiency and error rate of each model
 
-El proceso de análisis y evaluación permitió seleccionar los mejores modelos para la detección temprana de problemas en redes autoadaptativas, contribuyendo así a la mejora en la gestión y control del tráfico de datos.
+The analysis and evaluation process allowed us to select the best models for early problem detection in self-adaptive networks, thus contributing to improved data traffic management and control.
 
-Este dataset está disponible para la comunidad investigadora y cualquier persona interesada en el desarrollo de soluciones avanzadas para la optimización del tráfico de redes. 
+This dataset is available to the research community and anyone interested in developing advanced solutions for network traffic optimization.
